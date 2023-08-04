@@ -92,11 +92,37 @@ For any issues, queries, or support related to the LNMIIT Room Allotment and Com
 Thank you for using the LNMIIT Room Allotment and Complaint Management System. We hope this system enhances your experience and makes the room allocation process smoother.
 
 
-**Below are few images of the working project at local host 5000**
+## Below are few images of the working project at local host 5000**
 
+### Start Page
 ![image](./1.png)
-![image](./1.png)
-![image](./1.png)
-![image](./1.png)
-![image](./1.png)
-
+### google authentication using firebase
+![image](./2.png)
+###  student section
+![image](./3.png)
+### student going for room allotment when it is enabled
+![image](./4.png)
+![image](./5.png)
+### Student filing a complaint
+![image](./6.png)
+![image](./7.png)
+### Contact Details of Hostel Staff,Caretaker and Warden fetched from firestore
+![image](./8.png)
+### Displaying complaint details by roll number of institute
+![image](./11.png)
+### Swap room request portal
+![image](./12.png)
+### Entry made in the backend for swapping rooms
+![image](./13.png)
+### Log out
+![image](./14.png)
+### Enabling of room allotment in warden login
+![image](./15.png)
+### Disabling of room allotment in warden login
+![image](./16.png)
+### Downloading Current room allotment (Feature available to warden)
+![image](./17.png)
+### Warden Making an announcement
+![image](./21.png)
+### Both student and Warden searching for the student complaint and its status by its roll number
+![image](./22.png)
